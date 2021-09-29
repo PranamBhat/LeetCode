@@ -118,6 +118,7 @@ LeetCode Solutions
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](./algorithms/cpp/numberOfStudentsUnableToEatLunch/NumberOfStudentsUnableToEatLunch.cpp)|Easy|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [C++](./algorithms/cpp/maximumErasureValue/MaximumErasureValue.cpp)|Medium|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./algorithms/cpp/reformatPhoneNumber/ReformatPhoneNumber.cpp)|Easy|
+|1638|[Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [JavaScript](./JavaScript/count-substrings-that-differ-by-one-character.js)|Medium|
 |1625|[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [C++](./algorithms/cpp/lexicographicallySmallestStringAfterApplyingOperations/LexicographicallySmallestStringAfterApplyingOperations.cpp)|Medium|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [C++](./algorithms/cpp/largestSubstringBetweenTwoEqualCharacters/LargestSubstringBetweenTwoEqualCharacters.cpp)|Easy|
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [C++](./algorithms/cpp/FindValidMatrixGivenRowAndColumnSums/FindValidMatrixGivenRowAndColumnSums.cpp)|Medium|
@@ -193,6 +194,7 @@ LeetCode Solutions
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Python](./algorithms/python/PositionsOfLargeGroups/largeGroupPositions.py)|Easy|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [C++](./algorithms/cpp/shortEncodingOfWords/ShortEncodingOfWords.cpp)|Medium|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](./algorithms/cpp/uniqueMorseCodeWords/UniqueMorseCodeWords.cpp)|Easy|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [Java](./Java/escape-the-ghosts.java)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [C++](./algorithms/cpp/jewelsAndStones/JewelsAndStones.cpp)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./algorithms/python/LargestNumberAtLeastTwiceOfOthers/dominantIndex.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [JavaScript](./JavaScript/min-cost-climbing-stairs.js)|Easy|
