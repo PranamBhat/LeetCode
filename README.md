@@ -410,7 +410,7 @@ LeetCode Solutions
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [C++](./algorithms/cpp/readNCharactersGivenRead4/readNCharactersGivenRead4.II.cpp)|Hard|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [C++](./algorithms/cpp/readNCharactersGivenRead4/readNCharactersGivenRead4.cpp)|Easy|
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | [C++](./algorithms/cpp/binaryTreeUpsideDown/binaryTreeUpsideDown.cpp)|Medium|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](./algorithms/cpp/minStack/minStack.cpp), [Java](./algorithms/java/src/minStack/MinStack.java)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](./algorithms/cpp/minStack/minStack.cpp)|Easy|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./algorithms/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./algorithms/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [JavaScript](./JavaScript/maximum-product-subarray.js)|Medium|
