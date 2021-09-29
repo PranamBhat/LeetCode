@@ -340,7 +340,7 @@ LeetCode Solutions
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./algorithms/cpp/addDigits/addDigits.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./algorithms/cpp/binaryTreePaths/binaryTreePaths.cpp)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [JavaScript](./JavaScript/valid-anagram.js)|Easy|
-|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[C++](./algorithms/cpp/differentWaysToAddParentheses/DifferentWaysToAddParentheses.cpp), [Python](./algorithms/python/DifferentWaysToAddParentheses/diffWaysToCompute.py)|Medium|
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[C++](./algorithms/cpp/differentWaysToAddParentheses/DifferentWaysToAddParentheses.cpp)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./algorithms/cpp/search2DMatrix/search2DMatrix.II.cpp)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](./algorithms/cpp/slidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [C++](./algorithms/cpp/productOfArrayExceptSelf/ProductOfArrayExceptSelf.cpp)|Medium|
@@ -351,7 +351,7 @@ LeetCode Solutions
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| [C++](./algorithms/cpp/numberOfDigitOne/NumberOfDigitOne.cpp)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [JavaScript](./JavaScript/implement-queue-using-stacks.js)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./algorithms/cpp/powerOfTwo/PowerOfTwo.cpp)|Easy|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [C++](./algorithms/cpp/kthSmallestElementInaBST/KthSmallestElementInABst.cpp), [Python](./algorithms/python/KthSmallestElementInABST/kthSmallest.py)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [C++](./algorithms/cpp/kthSmallestElementInaBST/KthSmallestElementInABst.cpp)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./algorithms/cpp/majorityElement/majorityElement.II.cpp)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [C++](./algorithms/cpp/summaryRanges/SummaryRanges.cpp)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [C++](./algorithms/cpp/basicCalculator/BasicCalculator.II.cpp)|Medium|
@@ -392,7 +392,7 @@ LeetCode Solutions
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./algorithms/cpp/largestNumber/largestNumber.cpp)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./algorithms/cpp/dungeonGame/dungeonGame.cpp)|Hard|
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./algorithms/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp), [Java](./algorithms/java/src/binarySearchTreeIterator/binarySearchTreeIterator.java), [Python](./algorithms/python/BinarySearchTreeIterator/BSTIterator.py)|Medium|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./algorithms/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp)|Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./algorithms/cpp/twoSum/twoSum.III.cpp)|Easy|
