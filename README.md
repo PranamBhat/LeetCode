@@ -245,7 +245,7 @@ LeetCode Solutions
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [C++](./algorithms/cpp/partitionEqualSubsetSum/PartitionEqualSubsetSum.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./algorithms/cpp/thirdMaximumNumber/ThirdMaximumNumber.cpp), [Python](./algorithms/python/ThirdMaximumNumber/thirdMax.py)|Easy|
-|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./algorithms/cpp/arithmeticSlices/ArithmeticSlices.cpp)|Medium|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JavaScript](./JavaScript/arithmetic-slices.js)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/fizzBuzz/FizzBuzz.cpp)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./algorithms/cpp/splitArrayLargestSum/SplitArrayLargestSum.cpp)|Hard|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/longestPalindrome/LongestPalindrome.cpp)|Easy|
@@ -414,16 +414,16 @@ LeetCode Solutions
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./algorithms/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./algorithms/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [JavaScript](./JavaScript/maximum-product-subarray.js)|Medium|
-|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp), [Java](./algorithms/java/src/reverseWordsInAString/ReverseWordsInAString.java)|Medium|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./algorithms/cpp/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)| [C++](./algorithms/cpp/maxPointsOnALine/maxPointsOnALine.cpp)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [C++](./algorithms/cpp/sortList/sortList.cpp), [Python](./algorithms/python/SortList/sortList.py)|Medium|
-|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [C++](./algorithms/cpp/insertionSortList/insertionSortList.cpp), [Python](./algorithms/python/InsertionSortList/insertionSortList.py)|Medium|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [C++](./algorithms/cpp/insertionSortList/insertionSortList.cpp)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [C++](./algorithms/cpp/LRUCache/LRUCache.cpp), [Java](./algorithms/java/src/lruCache/LRUCache.java)|Hard|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./algorithms/cpp/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp), [Python](./algorithms/python/BinaryTreePostorderTraversal/postorderTraversal.py)|Hard|
-|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp), [Java](./algorithms/java/src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.java)|Medium|
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./algorithms/cpp/reorderList/reorderList.cpp), [Python](./algorithms/python/ReorderList/reorderList.py)|Medium|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./algorithms/cpp/linkedListCycle/linkedListCycle.II.cpp), [Python](./algorithms/python/LinkedListCycleII/detectCycle.py)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [JavaScript](./JavaScript/binary-tree-postorder-traversal.js)|Hard|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [JavaScript](./JavaScript/binary-tree-preorder-traversal.js)|Easy|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./algorithms/cpp/reorderList/reorderList.cpp)|Medium|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./algorithms/cpp/linkedListCycle/linkedListCycle.II.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JavaScript](./JavaScript/linked-list-cycle.js)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./algorithms/cpp/wordBreak/wordBreak.II.cpp)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [JavaScript](./JavaScript/word-break.js)|Medium|
@@ -436,7 +436,7 @@ LeetCode Solutions
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [C++](./algorithms/cpp/palindromePartitioning/palindromePartitioning.II.cpp)|Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [C++](./algorithms/cpp/palindromePartitioning/palindromePartitioning.cpp)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [C++](./algorithms/cpp/surroundedRegions/surroundedRegions.cpp)|Medium|
-|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](./algorithms/cpp/sumRootToLeafNumber/sumRootToLeafNumber.cpp), [Python](./algorithms/python/SumRootToLeafNumbers/sumNumbers.py)|Medium|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](./algorithms/cpp/sumRootToLeafNumber/sumRootToLeafNumber.cpp)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./algorithms/cpp/longestConsecutiveSequence/longestConsecutiveSequence.cpp)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)| [C++](./algorithms/cpp/wordLadder/wordLadder.cpp)|Medium|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| [C++](./algorithms/cpp/wordLadder/wordLadder.II.cpp)|Hard|
@@ -471,10 +471,10 @@ LeetCode Solutions
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [C++](./algorithms/cpp/interleavingString/interleavingString.cpp)|Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp), [Python](./algorithms/python/UniqueBinarySearchTreesII/generateTrees.py)|Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./algorithms/cpp/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [JavaScript](./JavaScript/binary-tree-inorder-traversal.js)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./algorithms/cpp/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./algorithms/cpp/reverseLinkedList/reverseLinkedList.II.cpp)|Medium|
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./algorithms/cpp/decodeWays/decodeWays.cpp)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [JavaScript](./JavaScript/decode-ways.js)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./algorithms/cpp/subsets/subsets.II.cpp), [Java](./algorithms/java/src/subsets/subsetsII.java)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| [C++](./algorithms/cpp/grayCode/grayCode.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JavaScript](./JavaScript/merge-sorted-array.js)|Easy|
