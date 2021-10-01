@@ -358,7 +358,7 @@ LeetCode Solutions
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./algorithms/cpp/majorityElement/majorityElement.II.cpp)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [C++](./algorithms/cpp/summaryRanges/SummaryRanges.cpp)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [C++](./algorithms/cpp/basicCalculator/BasicCalculator.II.cpp)|Medium|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [C++](./algorithms/cpp/invertBinaryTree/InvertBinaryTree.cpp)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [JavaScript](./JavaScript/invert-binary-tree.js)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](./algorithms/cpp/implementStackUsingQueues/ImplementStackUsingQueues.cpp)|Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [C++](./algorithms/cpp/basicCalculator/BasicCalculator.cpp)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [C++](./algorithms/cpp/rectangleArea/RectangleArea.cpp)|Easy|
@@ -448,15 +448,15 @@ LeetCode Solutions
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.III.cpp)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [JavaScript](./JavaScript/best-time-to-buy-and-sell-stock-ii.js)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [JavaScript](./JavaScript/best-time-to-buy-and-sell-stock.js)|Medium|
-|120|[Triangle](https://leetcode.com/problems/triangle/)| [C++](./algorithms/cpp/triangle/triangle.cpp)|Medium|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./algorithms/cpp/pascalTriangle/pascalTriangle.II.cpp)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)| [JavaScript](./JavaScript/triangle.js)|Medium|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [JavaScript](./JavaScript/pascals-triangle-ii.js)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [JavaScript](./JavaScript/pascals-triangle.js)|Easy|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [C++](./algorithms/cpp/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.II.cpp)|Hard|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [JavaScript](./JavaScript/populating-next-right-pointers-in-each-node.js)|Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| [C++](./algorithms/cpp/distinctSubsequences/distinctSubsequences.cpp)|Hard|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./algorithms/cpp/flattenBinaryTreeToLinkedList/flattenBinaryTreeToLinkedList.cpp), [Python](./algorithms/python/FlattenBinaryTreeToLinkedList/flatten.py)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [C++](./algorithms/cpp/pathSum/pathSum.II.cpp)|Medium|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)| [C++](./algorithms/cpp/pathSum/pathSum.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)| [JavaScript](./JavaScript/path-sum.js)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./algorithms/cpp/balancedBinaryTree/balancedBinaryTree.cpp)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [C++](./algorithms/cpp/convertSortedListToBinarySearchTree/convertSortedListToBinarySearchTree.cpp)|Medium|
