@@ -142,6 +142,7 @@ LeetCode Solutions
 |1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) | [C++](./algorithms/cpp/bulbSwitcher/BulbSwitcher.III.cpp)|Medium|
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [C++](./algorithms/cpp/maximumNumberOfEventsThatCanBeAttended/MaximumNumberOfEventsThatCanBeAttended.cpp)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [C++](./algorithms/cpp/filterRestaurantsByVeganFriendlyPriceAndDistance/FilterRestaurantsByVeganFriendlyPriceAndDistance.cpp)|Medium|
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [JavaScript](./JavaScript/matrix-block-sum.js)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/uniqueNumberOfOccurrences/Unique-Number-of-Occurrences.cpp)|Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](./algorithms/cpp/compareStringsByFrequencyOfTheSmallestCharacter/CompareStringsByFrequencyOfTheSmallestCharacter.cpp)|Easy|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [JavaScript](./JavaScript/last-substring-in-lexicographical-order.js)|Easy|
@@ -178,7 +179,7 @@ LeetCode Solutions
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./algorithms/python/RevealCardsInIncreasingOrder/deckRevealedIncreasing.py)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](./algorithms/python/ValidMountainArray/validMountainArray.py)|Easy|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./algorithms/cpp/numberOfRecentCalls/NumberOfRecentCalls.cpp)|Easy|
-|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/cpp/minimumFallingPathSum/MinimumFallingPathSum.cpp)|Medium|
+|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./CPP/minimum-falling-path-sum.cpp)|Medium|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./algorithms/cpp/uniqueEmailAddresses/UniqueEmailAddresses.cpp)|Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./algorithms/cpp/sortArrayByParity/SortArrayByParity.II.cpp)|Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [C++](./CPP/maximum-sum-circular-subarray.cpp)|Medium|
@@ -316,7 +317,7 @@ LeetCode Solutions
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./JavaScript/best-time-to-buy-and-sell-stock-with-cooldown.js)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./algorithms/cpp/rangeSumQuery-Immutable/rangeSumQuery-Mutable/RangeSumQueryMutable.cpp)|Medium|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/) | [C++](./algorithms/cpp/additiveNumber/AdditiveNumber.cpp)|Medium|
-|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./algorithms/cpp/rangeSumQuery2D-Immutable/RangeSumQuery2dImmutable.cpp)|Medium|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [JavaScript](./JavaScript/range-sum-query-2d-immutable.js)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./algorithms/cpp/rangeSumQuery-Immutable/rangeSumQuery-Immutable.cpp)|Easy|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./algorithms/cpp/removeInvalidParentheses/RemoveInvalidParentheses.cpp) |Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp)|Medium|
@@ -505,8 +506,8 @@ LeetCode Solutions
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./algorithms/cpp/validNumber/validNumber.cpp)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./algorithms/cpp/minimumPathSum/minimumPathSum.cpp)|Medium|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.II.cpp)|Medium|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.cpp)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [JavaScript](./JavaScript/unique-paths-ii.js)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [JavaScript](./JavaScript/unique-paths.js)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./algorithms/cpp/rotateList/rotateList.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./algorithms/cpp/permutationSequence/permutationSequence.cpp)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.II.cpp)|Medium|
