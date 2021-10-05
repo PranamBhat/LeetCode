@@ -6,6 +6,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1964|[Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [JavaScript](./JavaScript/find-the-longest-valid-obstacle-course-at-each-position.js)|Hard|
 |1882|[Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [C++](./algorithms/cpp/processTasksUsingServers/ProcessTasksUsingServers.cpp)|Medium|
 |1881|[Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [C++](./algorithms/cpp/maximumValueAfterInsertion/MaximumValueAfterInsertion.cpp)|Medium|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [C++](./algorithms/cpp/checkIfWordEqualsSummationOfTwoWords/CheckIfWordEqualsSummationOfTwoWords.cpp)|Easy|
@@ -138,11 +139,13 @@ LeetCode Solutions
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](./algorithms/cpp/shuffleTheArray/ShuffleTheArray.cpp)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](./algorithms/cpp/maximumProductOfTwoElementsInAnArray/MaximumProductOfTwoElementsInAnArray.cpp)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [C++](./algorithms/cpp/twoArraysEqualByReversingSubArrays/MakeTwoArraysEqualByReversingSubArrays.cpp)|Easy|
+|1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [JavaScript](./JavaScript/count-triplets-that-can-form-two-arrays-of-equal-xor.js)|Medium|
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++](./algorithms/cpp/timeNeededToInformAllEmployees/TimeNeededToInformAllEmployees.cpp)|Medium|
 |1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) | [C++](./algorithms/cpp/bulbSwitcher/BulbSwitcher.III.cpp)|Medium|
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [C++](./algorithms/cpp/maximumNumberOfEventsThatCanBeAttended/MaximumNumberOfEventsThatCanBeAttended.cpp)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [C++](./algorithms/cpp/filterRestaurantsByVeganFriendlyPriceAndDistance/FilterRestaurantsByVeganFriendlyPriceAndDistance.cpp)|Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [JavaScript](./JavaScript/matrix-block-sum.js)|Medium|
+|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [C++](./CPP/find-positive-integer-solution-for-a-given-equation.cpp)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/uniqueNumberOfOccurrences/Unique-Number-of-Occurrences.cpp)|Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](./algorithms/cpp/compareStringsByFrequencyOfTheSmallestCharacter/CompareStringsByFrequencyOfTheSmallestCharacter.cpp)|Easy|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [JavaScript](./JavaScript/last-substring-in-lexicographical-order.js)|Easy|
@@ -201,7 +204,7 @@ LeetCode Solutions
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./algorithms/python/LargestNumberAtLeastTwiceOfOthers/dominantIndex.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [JavaScript](./JavaScript/min-cost-climbing-stairs.js)|Easy|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [C++](./CPP/delete-and-earn.cpp)|Medium|
-|721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](./algorithms/cpp/accountsMerge/AccountsMerge.cpp)|Medium|
+|721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [JavaScript](./JavaScript/accounts-merge.js)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Python](./algorithms/python/1-bitAnd2-bitCharacters/isOneBitCharacter.py)|Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [JavaScript](./JavaScript/best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [C++](./algorithms/cpp/minimumASCIIDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.cpp)|Medium|
@@ -394,6 +397,7 @@ LeetCode Solutions
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.IV.cpp)|Hard|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [C++](./algorithms/cpp/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./MySQL/department-highest-salary.db)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./algorithms/cpp/largestNumber/largestNumber.cpp)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./algorithms/cpp/dungeonGame/dungeonGame.cpp)|Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./algorithms/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp)|Medium|
@@ -498,7 +502,7 @@ LeetCode Solutions
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Java](./Java/search-a-2d-matrix.java)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./algorithms/cpp/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./algorithms/cpp/editDistance/editDistance.cpp)|Hard|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./algorithms/cpp/simplifyPath/simplifyPath.cpp)|Medium|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [JavaScript](./JavaScript/simplify-path.js)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [JavaScript](./JavaScript/climbing-stairs.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](./algorithms/cpp/textJustification/textJustification.cpp)|Hard|
