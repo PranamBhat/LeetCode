@@ -364,7 +364,7 @@ LeetCode Solutions
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [C++](./algorithms/cpp/basicCalculator/BasicCalculator.cpp)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [C++](./algorithms/cpp/rectangleArea/RectangleArea.cpp)|Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./algorithms/cpp/countCompleteTreeNodes/CountCompleteTreeNodes.cpp)|Medium|
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](./algorithms/cpp/maximalSquare/MaximalSquare.cpp)|Medium|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [JavaScript](./JavaScript/maximal-square.js)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.III.cpp)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.II.cpp)|Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [C++](./algorithms/cpp/theSkylineProblem/TheSkylineProblem.cpp)|Hard|
@@ -505,7 +505,7 @@ LeetCode Solutions
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./algorithms/cpp/validNumber/validNumber.cpp)|Easy|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./algorithms/cpp/minimumPathSum/minimumPathSum.cpp)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [JavaScript](./JavaScript/minimum-path-sum.js)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [JavaScript](./JavaScript/unique-paths-ii.js)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [JavaScript](./JavaScript/unique-paths.js)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./algorithms/cpp/rotateList/rotateList.cpp)|Medium|
