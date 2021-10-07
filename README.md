@@ -284,7 +284,7 @@ LeetCode Solutions
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [C++](./algorithms/cpp/insertDeleteGetRandom/InsertDeleteGetrandomO1DuplicatesAllowed.cpp)|Hard|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/insertDeleteGetRandom/InsertDeleteGetrandomO1.cpp)|Hard|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./algorithms/cpp/combinationSumIV/combinationSumIV.cpp)|Medium|
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./algorithms/cpp/wiggleSubsequence/wiggleSubsequence.cpp)|Medium|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [JavaScript](./JavaSript/wiggle-subsequence.js)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](./algorithms/cpp/sumOfTwoIntegers/SumOfTwoIntegers.cpp)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [C++](./algorithms/cpp/validPerfectSquare/ValidPerfectSquare.cpp)|Easy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./algorithms/cpp/countNumbersWithUniqueDigits/CountNumbersWithUniqueDigits.cpp)|Medium|
@@ -323,7 +323,7 @@ LeetCode Solutions
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [JavaScript](./JavaScript/range-sum-query-2d-immutable.js)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./algorithms/cpp/rangeSumQuery-Immutable/rangeSumQuery-Immutable.cpp)|Easy|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./algorithms/cpp/removeInvalidParentheses/RemoveInvalidParentheses.cpp) |Hard|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [JavaScript](./JavaScript/longest-increasing-subsequence.js)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C++](./algorithms/cpp/bullsAndCows/bullsAndCows.cpp)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./algorithms/cpp/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.cpp)|Medium|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./algorithms/cpp/findMedianFromDataStream/FindMedianFromDataStream.cpp)|Hard|
