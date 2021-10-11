@@ -572,6 +572,6 @@ LeetCode Solutions
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [JavaScript](./JavaScript/longest-palindromic-substring.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [JavaScript](./JavaScript/longest-substring-without-repeating-character.js)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JavaScript](./JavaScript/add-two-numbers.js)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP/two-sum.cpp)|Easy|
 
