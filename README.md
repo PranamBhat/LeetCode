@@ -557,20 +557,20 @@ LeetCode Solutions
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [JavaScript](./JavaScript/valid-parentheses.js)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [JavaScript](./JavaScript/remove-nth-node-from-end-of-list.js)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./algorithms/cpp/4Sum/4Sum.cpp)|Medium|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./algorithms/cpp/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JavaScript](./JavaScript/letter-combinations-of-a-phone-number.js)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](./algorithms/cpp/3SumClosest/3SumClosest.cpp)|Medium|
-|15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/3Sum/3Sum.cpp)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [JavaScript](./JavaScript/3sum.js)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](./algorithms/cpp/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](./algorithms/cpp/romanToInteger/romanToInteger.cpp)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/cpp/integerToRoman/integerToRoman.cpp)|Medium|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/cpp/containerWithMostWater/containerWithMostWater.cpp)|Medium|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [C++](./algorithms/cpp/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](./JavaScript/container-with-most-water.js)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [JavaScript](./JavaScript/regular-expression-matching.js)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./algorithms/cpp/palindromeNumber/palindromeNumber.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./algorithms/cpp/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./algorithms/cpp/reverseInteger/reverseInteger.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [JavaScript](./JavaScript/longest-palindromic-substring.js)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [JavaScript](./JavaScript/median-of-two-sorted-arrays.js)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [JavaScript](./JavaScript/longest-substring-without-repeating-character.js)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JavaScript](./JavaScript/add-two-numbers.js)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP/two-sum.cpp)|Easy|
