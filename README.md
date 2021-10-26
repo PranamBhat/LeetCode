@@ -242,7 +242,7 @@ LeetCode Solutions
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [JavaScript](./JavaScript/longest-palindromic-subsequence.js)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C#](./CSharp/fibonacci-number.cs)|Easy|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [C++](./algorithms/cpp/randomPointInNonOverlappingRectangles/randomPointInNonOverlappingRectangles.cpp)|Medium|
-|494|[Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./algorithms/cpp/targetSum/targetSum.cpp)|Medium|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](./JavaScript/target-sum.js)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/IslandPerimeter.cpp)|Easy|
 |450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./algorithms/python/DeleteNodeInABST/deleteNode.py)|Medium|
@@ -327,7 +327,7 @@ LeetCode Solutions
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [JavaScript](./JavaScript/longest-increasing-subsequence.js)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C++](./algorithms/cpp/bullsAndCows/bullsAndCows.cpp)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./algorithms/cpp/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.cpp)|Medium|
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./algorithms/cpp/findMedianFromDataStream/FindMedianFromDataStream.cpp)|Hard|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [JavaScript](./JavaScript/find-median-from-data-stream.js)|Hard|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [C++](./algorithms/cpp/nimGame/nimGame.cpp)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/wordPattern/WordPattern.cpp)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./algorithms/cpp/gameOfLife/GameOfLife.cpp)|Medium|
@@ -466,7 +466,7 @@ LeetCode Solutions
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./algorithms/cpp/balancedBinaryTree/balancedBinaryTree.cpp)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [C++](./algorithms/cpp/convertSortedListToBinarySearchTree/convertSortedListToBinarySearchTree.cpp)|Medium|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [C++](./algorithms/cpp/convertSortedArrayToBinarySearchTree/convertSortedArrayToBinarySearchTree.cpp)|Medium|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [JavaScript](./JavaScript/convert-sorted-array-to-binary-search-tree.js)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./algorithms/cpp/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.II.cpp)|Easy|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [C++](./algorithms/cpp/constructBinaryTreeFromInorderAndPostorderTraversal/constructBinaryTreeFromInorderAndPostorderTraversal.cpp)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [JavaScript](./JavaScript/construct-binary-tree-from-preorder-and-inorder-traversal.js)|Medium|
