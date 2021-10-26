@@ -549,7 +549,7 @@ LeetCode Solutions
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](./algorithms/cpp/divideTwoInt/divideTwoInt.cpp)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](./algorithms/cpp/strStr/strStr.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./algorithms/cpp/removeElement/removeElement.cpp)|Easy|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-array.js)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [JavaScript](./JavaScript/reverse-nodes-in-k-group.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/cpp/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [JavaScript](./JavaScript/merge-k-sorted-lists.js)|Hard|
@@ -561,14 +561,14 @@ LeetCode Solutions
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JavaScript](./JavaScript/letter-combinations-of-a-phone-number.js)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](./algorithms/cpp/3SumClosest/3SumClosest.cpp)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [JavaScript](./JavaScript/3sum.js)|Medium|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](./algorithms/cpp/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](./algorithms/cpp/romanToInteger/romanToInteger.cpp)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [JavaScript](./JavaScript/longest-common-prefix.js)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [JavaScript](./JavaScript/roman-to-integer.js)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/cpp/integerToRoman/integerToRoman.cpp)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](./JavaScript/container-with-most-water.js)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [JavaScript](./JavaScript/regular-expression-matching.js)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./algorithms/cpp/palindromeNumber/palindromeNumber.cpp)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./algorithms/cpp/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Easy|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./algorithms/cpp/reverseInteger/reverseInteger.cpp)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [JavaScript](./JavaScript/string-to-integer-atoi.js)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [JavaScript](./JavaScript/reverse-integer.js)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [JavaScript](./JavaScript/longest-palindromic-substring.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [JavaScript](./JavaScript/median-of-two-sorted-arrays.js)|Hard|
