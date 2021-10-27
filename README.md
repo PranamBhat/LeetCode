@@ -546,8 +546,8 @@ LeetCode Solutions
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [JavaScript](./JavaScript/longest-valid-parentheses.js)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [JavaScript](./JavaScript/next-permutation.js)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./algorithms/cpp/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|Hard|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](./algorithms/cpp/divideTwoInt/divideTwoInt.cpp)|Medium|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](./algorithms/cpp/strStr/strStr.cpp)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [JavaScript](./JavaScript/divide-two-integers.js)|Medium|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [JavaScript](./JavaScript/implement-strstr.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./algorithms/cpp/removeElement/removeElement.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-array.js)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [JavaScript](./JavaScript/reverse-nodes-in-k-group.js)|Hard|
