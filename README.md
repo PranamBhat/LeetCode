@@ -495,7 +495,7 @@ LeetCode Solutions
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [JavaScript](./JavaScript/maximal-rectangle.js)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [JavaScript](./JavaScript/largest-rectangle-in-histogram.js)|Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-list.js)|Easy|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.cpp)|Medium|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-list-ii.js)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./algorithms/cpp/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [JavaScript](./JavaScript/word-search.js)|Medium|
@@ -518,7 +518,7 @@ LeetCode Solutions
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [JavaScript](./JavaScript/unique-paths.js)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./algorithms/cpp/rotateList/rotateList.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./algorithms/cpp/permutationSequence/permutationSequence.cpp)|Medium|
-|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.II.cpp)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [JavaScript](./JavaScript/spiral-matrix-ii.js)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](./algorithms/cpp/lengthOfLastWord/lengthOfLastWord.cpp)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./algorithms/cpp/insertInterval/insertInterval.cpp)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [JavaScript](./JavaScript/merge-intervals.js)|Hard|
