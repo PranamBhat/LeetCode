@@ -443,16 +443,16 @@ LeetCode Solutions
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [C++](./algorithms/cpp/singleNumber/singleNumber.II.cpp)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [JavaScript](./JavaScript/single-number.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)| [C++](./algorithms/cpp/candy/candy.cpp)|Hard|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./algorithms/cpp/gasStation/gasStation.cpp)|Medium|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)| [JavaScript](./JavaScript/gas-station.js)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](./algorithms/cpp/cloneGraph/cloneGraph.cpp)|Medium|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [C++](./algorithms/cpp/palindromePartitioning/palindromePartitioning.II.cpp)|Hard|
-|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [C++](./algorithms/cpp/palindromePartitioning/palindromePartitioning.cpp)|Medium|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [JavaScript](./JavaScript/palindrome-partitioning.js)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [JavaScript](./JavaScript/surrounded-regions.js)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](./algorithms/cpp/sumRootToLeafNumber/sumRootToLeafNumber.cpp)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [JavaScript](./JavaScript/longest-consecutive-sequence.js)|Hard|
-|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)| [C++](./algorithms/cpp/wordLadder/wordLadder.cpp)|Medium|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)| [JavaScript](./JavaScript/word-ladder.js)|Medium|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| [C++](./algorithms/cpp/wordLadder/wordLadder.II.cpp)|Hard|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](./algorithms/cpp/validPalindrome/validPalindrome.cpp)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [JavaScript](./JavaScript/valid-palindrome.js)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [JavaScript](./JavaScript/binary-tree-maximum-path-sum.js)|Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.III.cpp)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [JavaScript](./JavaScript/best-time-to-buy-and-sell-stock-ii.js)|Medium|
