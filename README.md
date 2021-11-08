@@ -253,14 +253,15 @@ LeetCode Solutions
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](./JavaScript/find-all-anagrams-in-a-string.js)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](./JavaScript/path-sum-iii.js)|Medium|
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [JavaScript](./JavaScript/non-overlapping-intervals.js)|Medium|
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) | [C++](./algorithms/cpp/sentenceScreenFitting/sentenceScreenFitting.cpp)|Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [JavaScript](./JavaScript/partition-equal-subset-sum.js)|Medium|
-|415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/) | [JavaScript](./JavaScript/add-strings.js)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./algorithms/cpp/thirdMaximumNumber/ThirdMaximumNumber.cpp)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JavaScript](./JavaScript/arithmetic-slices.js)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/fizzBuzz/FizzBuzz.cpp)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./algorithms/cpp/splitArrayLargestSum/SplitArrayLargestSum.cpp)|Hard|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/longestPalindrome/LongestPalindrome.cpp)|Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./JavaScript/longest-palindrome.js)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./algorithms/cpp/queueReconstructionByHeight/QueueReconstructionByHeight.cpp)|Medium|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/convertANumberToHexadecimal/ConvertANumberToHexadecimal.cpp)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./algorithms/cpp/sumOfLeftLeaves/SumOfLeftLeaves.cpp)|Easy|
@@ -304,7 +305,7 @@ LeetCode Solutions
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./algorithms/cpp/countingBits/CountingBits.cpp)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [JavaScript](./JavaScript/house-robber-iii.js)|Medium|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./algorithms/cpp/palindromePairs/PalindromePairs.cpp)|Hard|
-|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./algorithms/cpp/increasingTripletSubsequence/increasingTripletSubsequence.cpp)|Medium|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](./JavaScript/increasing-triplet-subsequence.js)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [C++](./algorithms/cpp/reconstructItinerary/ReconstructItinerary.cpp)|Medium|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [C++](./algorithms/cpp/verifyPreorderSerializationOfABinaryTree/VerifyPreorderSerializationOfABinaryTree.cpp)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/) | [C++](./algorithms/cpp/patchingArray/PatchingArray.cpp)|Medium|
@@ -333,7 +334,7 @@ LeetCode Solutions
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [JavaScript](./JavaScript/serialize-and-deserialize-binary-tree.js)|Medium|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [JavaScript](./JavaScript/find-median-from-data-stream.js)|Hard|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [C++](./algorithms/cpp/nimGame/nimGame.cpp)|Easy|
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/wordPattern/WordPattern.cpp)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./CPP/word-pattern.cpp)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./algorithms/cpp/gameOfLife/GameOfLife.cpp)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C++](./algorithms/cpp/findTheDuplicateNumber/findTheDuplicateNumber.cpp)|Hard|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Java](./algorithms/java/src/inorderSuccessorInBST/inorderSuccessorInBST.java)|Medium|
