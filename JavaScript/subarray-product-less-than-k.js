@@ -8,6 +8,7 @@ var numSubarrayProductLessThanK = function(nums, k) {
     
     if (k <= 1) 
         return 0;
+    
     var prod = 1;
     var count = 0, left = 0;
     
