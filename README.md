@@ -151,6 +151,7 @@ LeetCode Solutions
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](./algorithms/cpp/compareStringsByFrequencyOfTheSmallestCharacter/CompareStringsByFrequencyOfTheSmallestCharacter.cpp)|Easy|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [JavaScript](./JavaScript/last-substring-in-lexicographical-order.js)|Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [C#](./CSharp/n-th-tribonacci-number.cs)|Easy|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [JavaScript](./JavaScript/shortest-path-in-binary-matrix.js)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](./algorithms/cpp/greatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings.cpp)|Easy|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [C++](./algorithms/cpp/matrixCellsInDistanceOrder/MatrixCellsInDistanceOrder.cpp)|Easy|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./algorithms/cpp/twoCityScheduling/TwoCityScheduling.cpp)|Easy|
@@ -536,7 +537,7 @@ LeetCode Solutions
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [JavaScript](./JavaScript/permutations.js)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./CPP/jump-game-ii.cpp)|Hard|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](./algorithms/cpp/wildcardMatching/wildcardMatching.cpp)|Hard|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](./algorithms/cpp/multiplyStrings/multiplyStrings.cpp)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JavaScript](./JavaScript/multiply-strings.js)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [JavaScript](./JavaScript/trapping-rain-water.js)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [JavaScript](./JavaScript/first-missing-positive.js)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.II.cpp)|Medium|
