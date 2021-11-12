@@ -533,14 +533,14 @@ LeetCode Solutions
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/pow/pow.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [JavaScript](./JavaScript/group-anagrams.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [JavaScript](./JavaScript/rotate-image.js)|Medium|
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](./algorithms/cpp/permutations/permutations.II.cpp)|Hard|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [JavaScript](./JavaScript/permutations-ii.js)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [JavaScript](./JavaScript/permutations.js)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./CPP/jump-game-ii.cpp)|Hard|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](./algorithms/cpp/wildcardMatching/wildcardMatching.cpp)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JavaScript](./JavaScript/multiply-strings.js)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [JavaScript](./JavaScript/trapping-rain-water.js)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [JavaScript](./JavaScript/first-missing-positive.js)|Hard|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.II.cpp)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [JavaScript](./JavaScript/combination-sum-ii.js)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [JavaScript](./JavaScript/combination-sum.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./algorithms/cpp/countAndSay/countAndSay.cpp)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./algorithms/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|
