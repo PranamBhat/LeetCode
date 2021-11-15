@@ -42,7 +42,7 @@ LeetCode Solutions
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [C++](./algorithms/cpp/minimumOperationsToMakeTheArrayIncreasing/MinimumOperationsToMakeTheArrayIncreasing.cpp)|Easy|
 |1825|[Finding MK Average](https://leetcode.com/problems/finding-mk-average/) | [C++](./algorithms/cpp/findingMkAverage/FindingMkAverage.cpp)|Hard|
 |1824|[Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [C++](./algorithms/cpp/minimumSidewayJumps/MinimumSidewayJumps.cpp)|Medium|
-|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [C++](./algorithms/cpp/findTheWinnerOfTheCircularGame/FindTheWinnerOfTheCircularGame.cpp)|Medium|
+|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [JavaScript](./JavaScript/find-the-winner-of-the-circular-game.js)|Medium|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](./algorithms/cpp/signOfTheProductOfAnArray/SignOfTheProductOfAnArray.cpp)|Easy|
 |1819|[Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [C++](./algorithms/cpp/numberOfDifferentSubsequencesGcds/NumberOfDifferentSubsequencesGcds.cpp)|Hard|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [C++](./algorithms/cpp/minimumAbsoluteSumDifference/MinimumAbsoluteSumDifference.cpp)|Medium|
@@ -145,6 +145,7 @@ LeetCode Solutions
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [C++](./algorithms/cpp/maximumNumberOfEventsThatCanBeAttended/MaximumNumberOfEventsThatCanBeAttended.cpp)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [C++](./algorithms/cpp/filterRestaurantsByVeganFriendlyPriceAndDistance/FilterRestaurantsByVeganFriendlyPriceAndDistance.cpp)|Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [JavaScript](./JavaScript/matrix-block-sum.js)|Medium|
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [JavaScript](./JavaScript/minimum-remove-to-make-valid-parentheses.js)|Medium|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [C++](./CPP/find-positive-integer-solution-for-a-given-equation.cpp)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/uniqueNumberOfOccurrences/Unique-Number-of-Occurrences.cpp)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [JavaScript](./JavaScript/longest-common-subsequence.js)|Medium|
@@ -437,7 +438,7 @@ LeetCode Solutions
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [JavaScript](./JavaScript/lru-cache.js)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [JavaScript](./JavaScript/binary-tree-postorder-traversal.js)|Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [JavaScript](./JavaScript/binary-tree-preorder-traversal.js)|Easy|
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./algorithms/cpp/reorderList/reorderList.cpp)|Medium|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [JavaScript](./JavaScript/reorder-list.js)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [JavaScript](./JavaScript/linked-list-cycle-ii.js)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JavaScript](./JavaScript/linked-list-cycle.js)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./algorithms/cpp/wordBreak/wordBreak.II.cpp)|Hard|
@@ -556,7 +557,7 @@ LeetCode Solutions
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./algorithms/cpp/removeElement/removeElement.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-array.js)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [JavaScript](./JavaScript/reverse-nodes-in-k-group.js)|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/cpp/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [JavaScript](./JavaScript/swap-nodes-in-pairs.js)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [JavaScript](./JavaScript/merge-k-sorted-lists.js)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [JavaScript](./JavaScript/generate-parentheses.js)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JavaScript](./JavaScript/merge-two-sorted-lists.js)|Easy|
