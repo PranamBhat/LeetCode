@@ -218,6 +218,7 @@ LeetCode Solutions
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/longestUnivaluePath.py)|Easy|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./algorithms/python/RedundantConnection/findRedundantConnection.py)|Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python](./algorithms/python/LongestContinuousIncreasingSubsequence/findLengthOfLCIS.py)|Easy|
+|673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [JavaScript](./JavaScript/number-of-longest-increasing-subsequence.js)|Medium|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/submissions/) | [C++](./algorithms/cpp/bulbSwitcher/BulbSwitcher.II.cpp)|Medium|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Python](./algorithms/python/SecondMinimumNodeInABinaryTree/findSecondMinimumValue.py)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](./algorithms/python/Non-decreasingArray/checkPossibility.py)|Easy|
@@ -251,7 +252,7 @@ LeetCode Solutions
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](./JavaScript/target-sum.js)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/IslandPerimeter.cpp)|Easy|
-|450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./algorithms/python/DeleteNodeInABST/deleteNode.py)|Medium|
+|450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [JavaScript](./JavaScript/delete-node-in-a-bst.js)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](./JavaScript/find-all-anagrams-in-a-string.js)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](./JavaScript/path-sum-iii.js)|Medium|
@@ -468,7 +469,7 @@ LeetCode Solutions
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [JavaScript](./JavaScript/populating-next-right-pointers-in-each-node.js)|Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| [C++](./algorithms/cpp/distinctSubsequences/distinctSubsequences.cpp)|Hard|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [JavaScript](./JavaScript/flatten-binary-tree-to-linked-list.js)|Medium|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [C++](./algorithms/cpp/pathSum/pathSum.II.cpp)|Medium|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [JavaScript](./JavaScript/path-sum-ii.js)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [JavaScript](./JavaScript/path-sum.js)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./algorithms/cpp/balancedBinaryTree/balancedBinaryTree.cpp)|Easy|
