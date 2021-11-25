@@ -125,6 +125,7 @@ LeetCode Solutions
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [C++](./algorithms/cpp/FindValidMatrixGivenRowAndColumnSums/FindValidMatrixGivenRowAndColumnSums.cpp)|Medium|
 |1573|[Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [C++](./algorithms/cpp/NumberOfWaysToSplitString/NumberOfWaysToSplitString.cpp)|Medium|
 |1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [JavaScript](./JavaScript/maximum-length-of-subarray-with-positive-product.js)|Medium|
+|1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [JavaScript](./JavaScript/minimum-number-of-vertices-to-reach-all-nodes.js)|Medium|
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [C++](./algorithms/cpp/thousandSeparator/ThousandSeparator.cpp)|Easy|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [C++](./algorithms/cpp/minimumOperationsToMakeArrayEqual/MinimumOperationsToMakeArrayEqual.cpp)|Medium|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [C++](./algorithms/cpp/threeConsecutiveOdds/ThreeConsecutiveOdds.cpp)|Easy|
@@ -159,6 +160,7 @@ LeetCode Solutions
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [C++](./algorithms/cpp/recoverATreeFromPreorderTraversal/recoverATreeFromPreorderTraversal.cpp)|Hard|
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/) | [C++](./algorithms/cpp/videoStitching/VideoStitching.cpp)|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [C++](./CPP/best-sightseeing-pair.cpp)|Medium|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [JavaScript](./JavaScript/find-the-town-judge.js)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [C++](./CPP/rotting-oranges.cpp)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [C++](./algorithms/cpp/cousinsInBinaryTree/CousinsInBinaryTree.cpp)|Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [C++](./algorithms/cpp/brokenCalculator/BrokenCalculator.cpp)|Medium|
@@ -177,6 +179,7 @@ LeetCode Solutions
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [C++](./algorithms/cpp/longestTurbulentSubarray/LongestTurbulentSubarray.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./JavaScript/squares-of-a-sorted-array.js)|Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [C++](./algorithms/cpp/largestPerimeterTriangle/largestPerimeterTriangle.cpp)|Easy|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [JavaScript](./JavaScript/k-closest-points-to-origin.js)|Medium|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Python](./algorithms/python/FlipBinaryTreeToMatchPreorderTraversal/flipMatchVoyage.py)|Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [Python](./algorithms/python/PancakeSorting/pancakeSort.py)|Medium|
 |961|[N-Repeated element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++](./algorithms/cpp/nRepeatedElementInSize2NArray/N-Repeated-Element-in-Size-2N-Array.cpp)|Easy|
@@ -197,10 +200,12 @@ LeetCode Solutions
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./algorithms/cpp/peakIndexInAMountainArray/PeakIndexInAMountainArray.cpp)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](./algorithms/python/MaximizeDistanceToClosestPerson/maxDistToClosest.py)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [JavaScript](./JavaScript/backspace-string-compare.js)|Easy|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [JavaScript](./JavaScript/keys-and-rooms.js)|Medium|
 |837|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [C++](./algorithms/cpp/mostCommonWord/MostCommonWord.cpp)|Easy|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Python](./algorithms/python/PositionsOfLargeGroups/largeGroupPositions.py)|Easy|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [C++](./algorithms/cpp/shortEncodingOfWords/ShortEncodingOfWords.cpp)|Medium|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](./algorithms/cpp/uniqueMorseCodeWords/UniqueMorseCodeWords.cpp)|Easy|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [JavaScript](./JavaScript/all-paths-from-source-to-target.js)|Medium|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [Java](./Java/escape-the-ghosts.java)|Medium|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [JavaScript](./JavaScript/letter-case-permutation.js)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [C++](./algorithms/cpp/jewelsAndStones/JewelsAndStones.cpp)|Easy|
@@ -212,6 +217,7 @@ LeetCode Solutions
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [JavaScript](./JavaScript/best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [JavaScript](./JavaScript/subarray-product-less-than-k.js)|Medium|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [C++](./algorithms/cpp/minimumASCIIDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.cpp)|Medium|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/) | [JavaScript](./JavaScript/design-linked-list.js)|Medium|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [JavaScript](./JavaScript/design-hashmap.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./CPP/binary-search.cpp)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./CPP/max-area-of-island.cpp)|Medium|
@@ -234,7 +240,7 @@ LeetCode Solutions
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](./CPP/merge-two-binary-trees.cpp)|Easy|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [JavaScript](./JavaScript/delete-operation-for-two-strings.js)|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python](./algorithms/python/ShortestUnsortedContinuousSubarray/findUnsortedSubarray.py)|Easy|
-|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](./algorithms/python/SubtreeOfAnotherTree/isSubtree.py)|Easy|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [JavaScript](./JavaScript/subtree-of-another-tree.js)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [C++](./CPP/permutation-in-string.cpp)|Medium|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./Java/reshape-the-matrix.java)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Python](./algorithms/python/BinaryTreeTilt/findTilt.py)|Easy|
@@ -253,6 +259,7 @@ LeetCode Solutions
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](./JavaScript/target-sum.js)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/IslandPerimeter.cpp)|Easy|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [JavaScript](./JavaScript/sort-characters-by-frequency.js)|Medium|
 |450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [JavaScript](./JavaScript/delete-node-in-a-bst.js)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](./JavaScript/find-all-anagrams-in-a-string.js)|Medium|
@@ -405,7 +412,7 @@ LeetCode Solutions
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [C++](./algorithms/cpp/reverseBits/reverseBits.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [JavaScript](./JavaScript/rotate-array.js)|Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.IV.cpp)|Hard|
-|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [C++](./algorithms/cpp/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [JavaScript](./JavaScript/repeated-dna-sequences.js)|Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./MySQL/department-highest-salary.db)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./algorithms/cpp/largestNumber/largestNumber.cpp)|Medium|
@@ -434,7 +441,7 @@ LeetCode Solutions
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [JavaScript](./JavaScript/maximum-product-subarray.js)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./algorithms/cpp/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
-|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)| [C++](./algorithms/cpp/maxPointsOnALine/maxPointsOnALine.cpp)|Hard|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)| [JavaScript](./JavaScript/max-points-on-a-line.js)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [JavaScript](./JavaScript/sort-list.js)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [C++](./algorithms/cpp/insertionSortList/insertionSortList.cpp)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [JavaScript](./JavaScript/lru-cache.js)|Hard|
