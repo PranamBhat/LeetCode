@@ -387,7 +387,7 @@ LeetCode Solutions
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [JavaScript](./JavaScript/maximal-square.js)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.III.cpp)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.II.cpp)|Easy|
-|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [C++](./algorithms/cpp/theSkylineProblem/TheSkylineProblem.cpp)|Hard|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [JavaScript](./JavaScript/the-skyline-problem.js)|Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [JavaScript](./JavaScript/contains-duplicate.js)|Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.III.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [JavaScript](./JavaScript/kth-largest-element-in-an-array.js)|Medium|
@@ -401,7 +401,7 @@ LeetCode Solutions
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| [JavaScript](./JavaScript/course-schedule.js)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [JavaScript](./JavaScript/reverse-linked-list.js)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C++](./algorithms/cpp/isomorphicStrings/IsomorphicStrings.cpp)|Easy|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)| [C++](./algorithms/cpp/countPrimes/CountPrimes.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)| [JavaScript](./JavaScript/count-primes.js)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [JavaScript](./JavaScript/remove-linked-list-elements.js)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](./algorithms/cpp/happyNumber/HappyNumber.cpp)|Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [C++](./algorithms/cpp/bitwiseANDOfNumbersRange/BitwiseAndOfNumbersRange.cpp)|Medium|
@@ -415,16 +415,16 @@ LeetCode Solutions
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [JavaScript](./JavaScript/repeated-dna-sequences.js)|Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./MySQL/department-highest-salary.db)|Medium|
-|179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./algorithms/cpp/largestNumber/largestNumber.cpp)|Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/) | [JavaScript](./JavaScript/largest-number.js)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./algorithms/cpp/dungeonGame/dungeonGame.cpp)|Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [JavaScript](./JavaScript/binary-search-tree-iterator.js)|Medium|
-|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [JavaScript](./JavaScript/factorial-trailing-zeroes.js)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [JavaScript](./JavaScript/excel-sheet-column-number.js)|Easy|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./algorithms/cpp/twoSum/twoSum.III.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./JavaScript/majority-element.js)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./CPP/two-sum-ii-input-array-is-sorted.cpp)|Medium|
-|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./algorithms/cpp/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [JavaScript](./JavaScript/fraction-to-recurring-decimal.js)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/cpp/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./algorithms/cpp/maximumGap/maximumGap.cpp)|Hard|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./algorithms/cpp/missingRanges/missingRanges.cpp)|Medium|
@@ -440,7 +440,7 @@ LeetCode Solutions
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [JavaScript](./JavaScript/find-minimum-in-rotated-sorted-array.js)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [JavaScript](./JavaScript/maximum-product-subarray.js)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|
-|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./algorithms/cpp/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [JavaScript](./JavaScript/evaluate-reverse-polish-notation.js)|Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)| [JavaScript](./JavaScript/max-points-on-a-line.js)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [JavaScript](./JavaScript/sort-list.js)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [C++](./algorithms/cpp/insertionSortList/insertionSortList.cpp)|Medium|
@@ -450,7 +450,7 @@ LeetCode Solutions
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [JavaScript](./JavaScript/reorder-list.js)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [JavaScript](./JavaScript/linked-list-cycle-ii.js)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JavaScript](./JavaScript/linked-list-cycle.js)|Medium|
-|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./algorithms/cpp/wordBreak/wordBreak.II.cpp)|Hard|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [JavaScript](./JavaScript/word-break-ii.js)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [JavaScript](./JavaScript/word-break.js)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [JavaScript](./JavaScript/copy-list-with-random-pointer.js)|Hard|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [C++](./algorithms/cpp/singleNumber/singleNumber.II.cpp)|Medium|
@@ -490,18 +490,18 @@ LeetCode Solutions
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [JavaScript](./JavaScript/binary-tree-zigzag-level-order-traversal.js)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [JavaScript](./JavaScript/binary-tree-level-order-traversal.js)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [JavaScript](./JavaScript/symmetric-tree.js)|Easy|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [C++](./algorithms/cpp/sameTree/sameTree.cpp)|Easy|
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| [C++](./algorithms/cpp/recoverBinarySearchTree/recoverBinarySearchTree.cpp)|Hard|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [JavaScript](./JavaScript/same-tree.js)|Easy|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| [JavaScript](./JavaScript/recover-binary-search-tree.js)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [JavaScript](./JavaScript/validate-binary-search-tree.js)|Medium|
-|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [C++](./algorithms/cpp/interleavingString/interleavingString.cpp)|Hard|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [JavaScript](./JavaScript/interleaving-string.js)|Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [JavaScript](./JavaScript/unique-binary-search-trees.js)|Medium|
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp)|Medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [JavaScript](./JavaScript/unique-binary-search-trees-ii.js)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [JavaScript](./JavaScript/binary-tree-inorder-traversal.js)|Medium|
-|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./algorithms/cpp/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./algorithms/cpp/reverseLinkedList/reverseLinkedList.II.cpp)|Medium|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [JavaScript](./JavaScript/restore-ip-addresses.js)|Medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [JavaScript](./JavaScript/reverse-linked-list-ii.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [JavaScript](./JavaScript/decode-ways.js)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [JavaScript](./JavaScript/subsets90.js)|Medium|
-|89|[Gray Code](https://leetcode.com/problems/gray-code/)| [C++](./algorithms/cpp/grayCode/grayCode.cpp)|Medium|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)| [JavaScript](./JavaScript/gray-code.js)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JavaScript](./JavaScript/merge-sorted-array.js)|Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [C++](./algorithms/cpp/scrambleString/scrambleString.cpp)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/partitionList/partitionList.cpp)|Medium|
@@ -517,14 +517,14 @@ LeetCode Solutions
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [JavaScript](./JavaScript/minimum-window-substring.js)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [JavaScript](./JavaScript/sort-colors.js)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Java](./Java/search-a-2d-matrix.java)|Medium|
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./algorithms/cpp/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [JavaScript](./JavaScript/set-matrix-zeroes.js)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [JavaScript](./JavaScript/edit-distance.js)|Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [JavaScript](./JavaScript/simplify-path.js)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [JavaScript](./JavaScript/climbing-stairs.js)|Easy|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [JavaScript](./JavaScript/sqrtx.js)|Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](./algorithms/cpp/textJustification/textJustification.cpp)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [JavaScript](./JavaScript/plus-one.js)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./algorithms/cpp/validNumber/validNumber.cpp)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [JavaScript](./JavaScript/minimum-path-sum.js)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [JavaScript](./JavaScript/unique-paths-ii.js)|Medium|
@@ -536,34 +536,34 @@ LeetCode Solutions
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./algorithms/cpp/insertInterval/insertInterval.cpp)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [JavaScript](./JavaScript/merge-intervals.js)|Hard|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| [C++](./CPP/jump-game.cpp)|Medium|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.cpp)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [JavaScript](./JavaScript/spiral-matrix.js)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [JavaScript](./JavaScript/maximum-subarray.js)|Medium|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [C++](./algorithms/cpp/nQueens/nQueuens.II.cpp)|Hard|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/nQueens/nQueuens.cpp)|Hard|
-|50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/pow/pow.cpp)|Medium|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [JavaScript](./JavaScript/n-queens-ii.js)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [JavaScript](./JavaScript/n-queens.js)|Hard|
+|50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [JavaScript](./JavaScript/powx-n.js)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [JavaScript](./JavaScript/group-anagrams.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [JavaScript](./JavaScript/rotate-image.js)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [JavaScript](./JavaScript/permutations-ii.js)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [JavaScript](./JavaScript/permutations.js)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./CPP/jump-game-ii.cpp)|Hard|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](./algorithms/cpp/wildcardMatching/wildcardMatching.cpp)|Hard|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [JavaScript](./JavaScript/wildcard-matching.js)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JavaScript](./JavaScript/multiply-strings.js)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [JavaScript](./JavaScript/trapping-rain-water.js)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [JavaScript](./JavaScript/first-missing-positive.js)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [JavaScript](./JavaScript/combination-sum-ii.js)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [JavaScript](./JavaScript/combination-sum.js)|Medium|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./algorithms/cpp/countAndSay/countAndSay.cpp)|Easy|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./algorithms/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [JavaScript](./JavaScript/count-and-say.js)|Easy|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [JavaScript](./JavaScript/sudoku-solver.js)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Java/valid-sudoku.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [JavaScript](./JavaScript/search-insert-position.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [JavaScript](./JavaScript/find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [JavaScript](./JavaScript/search-in-rotated-sorted-array.js)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [JavaScript](./JavaScript/longest-valid-parentheses.js)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [JavaScript](./JavaScript/next-permutation.js)|Medium|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./algorithms/cpp/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|Hard|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [JavaScript](./JavaScript/substring-with-concatenation-of-all-words.js)|Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [JavaScript](./JavaScript/divide-two-integers.js)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [JavaScript](./JavaScript/implement-strstr.js)|Easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./algorithms/cpp/removeElement/removeElement.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [JavaScript](./JavaScript/remove-element.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-array.js)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [JavaScript](./JavaScript/reverse-nodes-in-k-group.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [JavaScript](./JavaScript/swap-nodes-in-pairs.js)|Medium|
