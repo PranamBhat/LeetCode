@@ -264,6 +264,7 @@ LeetCode Solutions
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [JavaScript](./JavaScript/sort-characters-by-frequency.js)|Medium|
 |450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [JavaScript](./JavaScript/delete-node-in-a-bst.js)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [JavaScript](./JavaScript/find-all-numbers-disappeared-in-an-array.js)|Esay|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](./JavaScript/find-all-anagrams-in-a-string.js)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](./JavaScript/path-sum-iii.js)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [JavaScript](./JavaScript/non-overlapping-intervals.js)|Medium|
@@ -380,7 +381,7 @@ LeetCode Solutions
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [JavaScript](./JavaScript/kth-smallest-element-in-a-bst.js)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./algorithms/cpp/majorityElement/majorityElement.II.cpp)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [C++](./algorithms/cpp/summaryRanges/SummaryRanges.cpp)|Easy|
-|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [C++](./algorithms/cpp/basicCalculator/BasicCalculator.II.cpp)|Medium|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [JavaScript](./JavaScript/basic-calculator-ii.js)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [JavaScript](./JavaScript/invert-binary-tree.js)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](./algorithms/cpp/implementStackUsingQueues/ImplementStackUsingQueues.cpp)|Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [C++](./algorithms/cpp/basicCalculator/BasicCalculator.cpp)|Medium|
@@ -505,8 +506,8 @@ LeetCode Solutions
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [JavaScript](./JavaScript/subsets90.js)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| [JavaScript](./JavaScript/gray-code.js)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JavaScript](./JavaScript/merge-sorted-array.js)|Easy|
-|87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [C++](./algorithms/cpp/scrambleString/scrambleString.cpp)|Hard|
-|86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/partitionList/partitionList.cpp)|Medium|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [JavaScript](./JavaScript/scramble-string.js)|Hard|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)| [JavaScript](./JavaScript/partition-list.js)|Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [JavaScript](./JavaScript/maximal-rectangle.js)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [JavaScript](./JavaScript/largest-rectangle-in-histogram.js)|Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [JavaScript](./JavaScript/remove-duplicates-from-sorted-list.js)|Easy|
@@ -580,13 +581,13 @@ LeetCode Solutions
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [JavaScript](./JavaScript/3sum.js)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [JavaScript](./JavaScript/longest-common-prefix.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [JavaScript](./JavaScript/roman-to-integer.js)|Easy|
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/cpp/integerToRoman/integerToRoman.cpp)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [JavaScript](./JavaScript/integer-to-roman.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](./JavaScript/container-with-most-water.js)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [JavaScript](./JavaScript/regular-expression-matching.js)|Hard|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./algorithms/cpp/palindromeNumber/palindromeNumber.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [JavaScript](./JavaScript/palindrome-number.js)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [JavaScript](./JavaScript/string-to-integer-atoi.js)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [JavaScript](./JavaScript/reverse-integer.js)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Easy|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [JavaScript](./JavaScript/zigzag-conversion.js)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [JavaScript](./JavaScript/longest-palindromic-substring.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [JavaScript](./JavaScript/median-of-two-sorted-arrays.js)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [JavaScript](./JavaScript/longest-substring-without-repeating-character.js)|Medium|
